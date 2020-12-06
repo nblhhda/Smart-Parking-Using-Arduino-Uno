@@ -11,4 +11,5 @@ The list of software
 1. Arduino IDE
 2. cPanel 
 
-
+Diagram for Smart Parking 
+![smartparking](https://github.com/nblhhda/Smart-Parking-Using-Arduino-Uno/blob/main/Screenshot%20(51).png)
