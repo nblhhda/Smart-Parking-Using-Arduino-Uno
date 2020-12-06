@@ -10,3 +10,5 @@ The list of components for Smart Parking
 The list of software
 1. Arduino IDE
 2. cPanel 
+
+
